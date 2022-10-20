@@ -4,7 +4,6 @@ This Portfolio is a small project using HTML / CSS and Bootstrap. I will be usin
 [live demo](https://replit.com/@MJvazquez1/MJportfolio)<br>
 
 ## Screenshot:
-![image](https://user-images.githubusercontent.com/113742504/196861965-7a8e6f18-d629-43f7-8af1-46872502b88d.png)
 
 
 ## Technologies Used
